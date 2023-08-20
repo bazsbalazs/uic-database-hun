@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+MAV-START,"https://www.mavcsoport.hu/","hu",20230420,20240220,20230820.M2ChangeID
